@@ -161,3 +161,5 @@ Tutorials and developer docs for CorDapps and Corda are
 #To Run
 sudo ./gradlew deployNodes
 sudo ./cordapp/src/build/nodes/runnodes
+
+http://localhost:10007/web/example/
