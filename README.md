@@ -155,3 +155,9 @@ among themselves in the same way as when they were running on the same machine.
 
 Tutorials and developer docs for CorDapps and Corda are
 [here](https://docs.corda.net/).
+
+
+# CordaSample
+#To Run
+sudo ./gradlew deployNodes
+sudo ./cordapp/src/build/nodes/runnodes
